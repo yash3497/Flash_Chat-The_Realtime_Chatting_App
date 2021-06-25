@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profiledetails"
+        android:title="Profile details" />
+    <item
+        android:id="@+id/clearchat"
+        android:title="Clear chat" />
+    <item
+        android:id="@+id/setting"
+        android:title="Setting" />
+</menu>
